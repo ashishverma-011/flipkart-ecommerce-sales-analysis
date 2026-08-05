@@ -171,6 +171,8 @@ This project demonstrates an end-to-end data analytics workflow using Excel, MyS
 
 **Ashish Verma**
 
+ • LinkedIn: https://www.linkedin.com/in/ashish-verma-a80a313a5/
+
 **Aspiring Data Analyst**
 
 **Skills:** Excel • MySQL • Power BI# flipkart-ecommerce-sales-analysis
